@@ -1,0 +1,8 @@
+bands:
+- 0
+- 3
+input_npz: /mnt/data/loop_phase_scanner/demo_fake_data.npz
+max_loops: 5000
+output_json: /mnt/data/loop_phase_scanner/scan_results.json
+tolerance: 0.05
+unit: 0.5235987755982988
